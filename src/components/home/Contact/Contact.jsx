@@ -25,7 +25,7 @@ const Contact = () => {
       id="contact"
       className="relative container py-5 md:py-8 lg:py-10 xl:py-12"
     >
-      <h3 className="text-3xl lg:text-4xl font-bold text-black text-center leading-normal ">
+      <h3 className="text-3xl lg:text-4xl font-bold text-black text-center leading-normal underline">
         Contact Me
       </h3>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 pt-5 md:pt-8 lg:pt-10">
